@@ -27,7 +27,7 @@
       -----------------------------------------------
          <h4> 24 Hours. </h4> <br>
       
-      This project is a test for the upcoming program excution, do not interfere. <br><br>
+      This project is a test for the upcoming program execution, do not interfere. <br><br>
       
       <li class="LIST">
       <ul>
